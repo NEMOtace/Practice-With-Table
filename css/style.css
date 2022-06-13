@@ -11,12 +11,42 @@ body {
     border-right: 1px solid #333;
 }
 
+td{
+    width: 60px;
+    height: 60px;
+    text-align: center;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
 .red {
     background-color: red;
 }
 
 .blue {
-    background-color: blue;
+    background-color: skyblue;
+}
+
+.skin {
+    background-color: rgb(241, 194, 178);
+}
+
+.pink {
+    background-color: pink;
+}
+
+.rose{
+    background-color: palevioletred;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.marine{
+    background-color: aquamarine;
 }
 
 .aqua {
@@ -27,10 +57,14 @@ body {
     background-color: greenyellow;
 }
 
-.greem {
+.green {
     background-color: green;
 }
 
 .black {
     background-color: black;
+}
+
+.purple {
+    background-color: rgb(215, 201, 229);
 }
